@@ -7,7 +7,7 @@ Screen1 As screen:
         ZIndex: =1
 
     Label2 As label:
-        Text: ="Label 2"
+        Text: ="Label 22"
         X: =536
         Y: =103
         ZIndex: =2
